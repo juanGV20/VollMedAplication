@@ -1,0 +1,1 @@
+alter table pacientes add documento varchar(6) not null unique;
